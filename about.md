@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Created this place for me to post writeups and other ramblings of education, research, or whatever else is on my mind.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm an EE and work in ICS security. What else is there to say?
 
-### Contact me
+### Contact me?
 
-[email@domain.com](mailto:email@domain.com)
+[br3v.82@gmail.com](mailto:br3v.82@gmail.com)
